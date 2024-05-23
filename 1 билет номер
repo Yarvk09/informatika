@@ -1,0 +1,11 @@
+a = int(input())
+max = 0
+
+if a < 1000:
+    for i in range(a):
+        b = int(input())
+        if b < 30000:
+            if b % 5 == 0 and b > max:
+                max = b
+
+print(max)
