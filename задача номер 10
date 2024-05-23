@@ -1,0 +1,13 @@
+a = int(input())
+kolichestvo2 = 0
+
+if a < 1000:
+    for i in range(a):
+        b = int(input())
+        if b < 30000:
+            if b % 5 == 0 and b % 7 == 0:
+                kolichestvo2 += 1
+
+print(kolichestvo2) 
+
+By Anastasia
