@@ -1,3 +1,1 @@
-vless://e2e9274d-c5d4-4f10-8671-6bbc16de260f@78.17.46.43:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HwQESla50fMEwr5ZR_6oiqAoIIRj1IAdLVYyDv9zBUM&security=reality&sid=846c&sni=www.amd.com&spx=%2FckiyOW1US0gENrM&type=tcp#UNIVERSAL-N0rmal-VPN-Yar-616waz8mdl
-vless://dee5abb6-74bc-4fe9-a1d4-abbdd78fb792@78.17.46.43:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YS74D-onloJE9d77nKoC_0VNgTi1i8EnRDc51Ud73AI&security=reality&sid=5a198a9493fd&sni=vk.com&spx=%2FBObH838GnPhUDER&type=tcp#WHITE-burmalda-VPN-Yar-white-burmalda
-
+vless://e2e9274d-c5d4-4f10-8671-6bbc16de260f@78.17.46.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HwQESla50fMEwr5ZR_6oiqAoIIRj1IAdLVYyDv9zBUM&security=reality&sid=65f279afbe40f3ca&sni=www.nvidia.com&spx=%2FGgvlkm3jiGdZA7G&type=tcp#UNIVERSAL-burmalda-VPN-uni-burmalda
